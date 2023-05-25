@@ -1,7 +1,5 @@
 ### Hi there
-                         # I am Mohsen Rashidiniya, I'm a Smart Contract adn Solidity developer
-
-
+                       
 
 # 💫 About Me:
 🔭 I am currently working on Smart Contracts & Web3<br>👯 I will be happy to collaborate on Blockchain Projects<br>🤝 I am looking to meet with Builders<br>🌱 I am currently learning Web2 & Web3 Technologies<br>💬 Ask me about  Solidity, DAOs, DeFi, NFTs, Smart Contracts, Ethers.js, Hardhat<br>
