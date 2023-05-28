@@ -1,4 +1,4 @@
-### Hi there, I'm Mohsen Rashidi, I'm a Solidity and Smart Contract developer.
+### Hi there     My name is Mohsen Rashidi, I'm a Solidity and Smart Contract developer.
                        
 
 # 💫 About Me:
